@@ -1,0 +1,4 @@
+﻿{
+  "name": "RotationFeature",
+  "references":[ "GUID:2d044dfb6a714b2f9e4a12e18b3ebed3", "GUID:7b815f6b1285455f8878f39328c87707" ]
+}
